@@ -3,7 +3,7 @@ Currently I am open to any opportunity especially in IT as a Mobile Developer an
 ### Tools:
 <p>
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
-    <img src="https://gpvc.arturio.dev/xalvetra" />
+    <img src="https://gpvc.arturio.dev/farisikhhaq" />
 </p>
 
 ### Connect with me:
@@ -14,7 +14,7 @@ Currently I am open to any opportunity especially in IT as a Mobile Developer an
 <br>
 <br>
 
-<img align="left" alt="Faris Ikhlasul Github Stats" src="https://github-readme-stats.vercel.app/api?username=xalvetra&show_icons=true&hide_border=true" />
+<img align="left" alt="Faris Ikhlasul Github Stats" src="https://github-readme-stats.vercel.app/api?username=farisikhhaq&show_icons=true&hide_border=true" />
 
 [youtube]: https://www.youtube.com/channel/UC0-KT7C9MMRo8xnE5ZQPD4g
 [instagram]: https://www.instagram.com/xalfaris_26/?hl=id
@@ -26,7 +26,7 @@ Currently I am open to any opportunity especially in IT as a Mobile Developer an
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
     - 🔭 I’m currently working on Malang State Polytechnic  </br>
-    - 🌱 I’m currently learning JAVA and KOTLIN </br>
+    - 🌱 I’m currently learning JAVA ,KOTLIN & PHP </br>
     - 💬 Ask me about anything -> <a href="mailto:farisikhlasulhaq@yahoo.co.id">Email me!</a> </br>
     - 📫 How to reach me: <a href="mailto:farisikhhaq@gmail.com">Email me!</a>  </br>
 </details>
