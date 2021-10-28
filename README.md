@@ -1,5 +1,5 @@
 # こんにちは 👋 , I'm Faris I.H! 
-Currently I am open to any opportunity especially in IT as a Mobile Developer and Networking. 
+Currently I am open to any learning especially in IT as a Mobile Developer and Networking. 
 <p>
     <img src="https://gpvc.arturio.dev/farisikhhaq" />
 </p>
@@ -30,15 +30,18 @@ Currently I am open to any opportunity especially in IT as a Mobile Developer an
 <code><img height="35" src="https://wakatime.com/static/img/editor-icons/word-128.png"></code>
 <code><img height="35" src="https://wakatime.com/static/img/editor-icons/powerpoint-128.png"></code>
 
-<img align="left" alt="Faris Ikhlasul Github Stats" src="https://github-readme-stats.vercel.app/api?username=farisikhhaq&show_icons=true&hide_border=true&theme=tokyonight"/>
+<img width="45%" align="left" alt="Faris Ikhlasul Github Stats" src="https://github-readme-stats.vercel.app/api?username=farisikhhaq&show_icons=true&hide_border=true&theme=tokyonight" />
+<img width="38%" align="left" alt="Animation" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farisikhhaq&layout=compact&hide_border=true&theme=tokyonight" />
 
 [youtube]: https://www.youtube.com/channel/UC0-KT7C9MMRo8xnE5ZQPD4g
 [instagram]: https://www.instagram.com/xalfaris_26/?hl=id
 [linkedin]: https://www.linkedin.com/in/faris-ikhlasul-haq-23927a152/
 [work]: https://www.wri.polinema.ac.id/
 
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farisikhhaq&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/farisikhhaq/farisikhhaq)
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 
