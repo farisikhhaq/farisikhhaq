@@ -15,7 +15,7 @@ Currently I am open to any opportunity especially in IT as a Mobile Developer an
 <br>
 
 <img align="left" alt="Faris Ikhlasul Github Stats" src="https://github-readme-stats.vercel.app/api?username=farisikhhaq&show_icons=true&hide_border=true" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farisikhhaq&layout=compact)](https://github.com/farisikhhaq)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farisikhhaq&layout=compact)](https://github.com/farisikhhaq)
 
 [youtube]: https://www.youtube.com/channel/UC0-KT7C9MMRo8xnE5ZQPD4g
 [instagram]: https://www.instagram.com/xalfaris_26/?hl=id
