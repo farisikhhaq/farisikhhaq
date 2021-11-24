@@ -29,7 +29,10 @@ Currently I am open to any learning especially in IT as a Mobile Developer and N
 <code><img height="35" src="https://wakatime.com/static/img/editor-icons/sql-server-management-studio-128.png"></code>
 <code><img height="35" src="https://wakatime.com/static/img/editor-icons/word-128.png"></code>
 <code><img height="35" src="https://wakatime.com/static/img/editor-icons/powerpoint-128.png"></code>
+<br>
+<br>
 
+### Stats:
 <img width="45%" align="left" alt="Faris Ikhlasul Github Stats" src="https://github-readme-stats.vercel.app/api?username=farisikhhaq&show_icons=true&hide_border=true&theme=tokyonight" />
 <img width="38%" align="left" alt="Animation" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farisikhhaq&layout=compact&hide_border=true&theme=tokyonight" />
 
@@ -43,10 +46,8 @@ Currently I am open to any learning especially in IT as a Mobile Developer and N
 <br>
 <br>
 <br>
-<br>
-<br>
 
-### Stats:
+
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
     - 🔭 I’m currently learn on Malang State Polytechnic  </br>
