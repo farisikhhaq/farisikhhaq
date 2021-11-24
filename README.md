@@ -46,7 +46,8 @@ Currently I am open to any learning especially in IT as a Mobile Developer and N
 <br>
 <br>
 <br>
-
+<br>
+<br>
 
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
