@@ -12,26 +12,31 @@ Currently I am open to any learning especially in IT as a Mobile Developer and N
 <br>
 <br>
 
-**Languages:**  
+**Languages:** 
+
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+<code><img height="35" src="https://www.svgrepo.com/show/303206/javascript-logo.svg"></code>
 <code><img height="35" src="https://img.icons8.com/color/144/000000/python--v1.png"></code> 
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
+<code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/java/java.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/kotlin/kotlin.png"></code>
 <code><img height="35" src="https://seeklogo.com/images/D/dart-logo-FDA1939EC4-seeklogo.com.png"></code>
 
-**Code Editors & Tools:**  
+**Code Editors & Tools:**
+
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="35" src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.png"></code>
 <code><img height="35" src="https://wakatime.com/static/img/editor-icons/android-studio-128.png"></code>
 <code><img height="35" src="https://wakatime.com/static/img/editor-icons/netbeans-128.png"></code>
-<code><img height="35" src="https://wakatime.com/static/img/editor-icons/sql-server-management-studio-128.png"></code>
-<code><img height="35" src="https://wakatime.com/static/img/editor-icons/word-128.png"></code>
-<code><img height="35" src="https://wakatime.com/static/img/editor-icons/powerpoint-128.png"></code>
+<code><img height="35" src="https://wakatime.com/static/img/editor-icons/dbeaver-128.png"></code>
+<code><img height="35" src="https://staruml.io/image/staruml_logo.png"></code>
+<code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1200px-Google_Colaboratory_SVG_Logo.svg.png?20221103151432"></code>
+<code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/600px-Figma-logo.svg.png?20190122211436"></code>
+<code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/800px-Postgresql_elephant.svg.png"></code>
 <br>
 <br>
-
 ### Stats:
 <img width="45%" align="left" alt="Faris Ikhlasul Github Stats" src="https://github-readme-stats.vercel.app/api?username=farisikhhaq&show_icons=true&hide_border=true&theme=tokyonight" />
 <img width="38%" align="left" alt="Animation" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farisikhhaq&layout=compact&hide_border=true&theme=tokyonight" />
