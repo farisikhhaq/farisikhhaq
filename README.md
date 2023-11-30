@@ -1,7 +1,7 @@
 # こんにちは 👋 , I'm Faris I.H! 
 Currently I am open to any learning especially in IT as a Mobile Developer and Networking. 
 <p>
-    <img src="https://gpvc.arturio.dev/farisikhhaq" />
+    <img src="https://raw.githubusercontent.com/farisikhhaq/farisikhhaq/output/snake.svg" alt="Snake animation" />
 </p>
 
 ### Connect with me:
@@ -46,6 +46,7 @@ Currently I am open to any learning especially in IT as a Mobile Developer and N
 [linkedin]: https://www.linkedin.com/in/faris-ikhlasul-haq-23927a152/
 [work]: https://www.wri.polinema.ac.id/
 
+<br>
 <br>
 <br>
 <br>
