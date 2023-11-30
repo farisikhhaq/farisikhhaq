@@ -1,8 +1,21 @@
-# こんにちは 👋 , I'm Faris I.H! 
-Currently I am open to any learning especially in IT as a Mobile Developer and Networking. 
-<p>
-    <img src="https://raw.githubusercontent.com/farisikhhaq/farisikhhaq/output/snake.svg" alt="Snake animation" />
-</p>
+<h4 align="left">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=こんにちは+👋;Hello+There..+👋;This+is+Faris+I+H..;Nice+To+Meet+You!;はじめまして!&size=35">
+</h4>
+
+```
+/**
+* +=====================================================================================================+
+* |__        __   _                            _____       __  __          ____ _ _   _           _     |
+* |\ \      / /__| | ___ ___  _ __ ___   ___  |_   _|__   |  \/  |_   _   / ___(_) |_| |__  _   _| |__  |
+* | \ \ /\ / / _ \ |/ __/ _ \| '_ ` _ \ / _ \   | |/ _ \  | |\/| | | | | | |  _| | __| '_ \| | | | '_ \ |
+* |  \ V  V /  __/ | (_| (_) | | | | | |  __/   | | (_) | | |  | | |_| | | |_| | | |_| | | | |_| | |_) ||
+* |   \_/\_/ \___|_|\___\___/|_| |_| |_|\___|   |_|\___/  |_|  |_|\__, |  \____|_|\__|_| |_|\__,_|_.__/ |
+* |                                                               |___/                                 |
+* +=====================================================================================================+
+*/
+```
+
+Currently I am open to any learning especially in IT as a Mobile Developer and QA. 
 
 ### Connect with me:
 
@@ -37,6 +50,12 @@ Currently I am open to any learning especially in IT as a Mobile Developer and N
 <code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/800px-Postgresql_elephant.svg.png"></code>
 <br>
 <br>
+### Holopin:
+
+<a href="https://www.holopin.io/@xalvetra">
+    <img src="https://holopin.me/xalvetra" width="850" height="300">
+</a>
+
 ### Stats:
 <img width="45%" align="left" alt="Faris Ikhlasul Github Stats" src="https://github-readme-stats.vercel.app/api?username=farisikhhaq&show_icons=true&hide_border=true&theme=tokyonight" />
 <img width="38%" align="left" alt="Animation" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farisikhhaq&layout=compact&hide_border=true&theme=tokyonight" />
@@ -56,9 +75,14 @@ Currently I am open to any learning especially in IT as a Mobile Developer and N
 <br>
 <br>
 
+### Git Commit:
+<p>
+    <img src="https://raw.githubusercontent.com/farisikhhaq/farisikhhaq/output/snake.svg" alt="Snake animation" />
+</p>
+
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
-    - 🔭 I’m currently learn on Malang State Polytechnic  </br>
+    - 🔭 I’m currently work on IDETAMA  </br>
     - 💬 Ask me about anything -> <a href="mailto:farisikhlasulhaq@yahoo.co.id">Email me!</a> </br>
     - 📫 How to reach me: <a href="mailto:farisikhhaq@gmail.com">Email me!</a>  </br>
 </details>
