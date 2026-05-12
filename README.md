@@ -15,7 +15,7 @@
 */
 ```
 
-Currently I am open to any learning especially in IT as a Mobile Developer and QA. 
+Currently I am open to any learning especially in IT as a DevOps, MLOps & Product Manage. 
 
 ### Connect with me:
 
@@ -44,10 +44,7 @@ Currently I am open to any learning especially in IT as a Mobile Developer and Q
 <code><img height="35" src="https://wakatime.com/static/img/editor-icons/android-studio-128.png"></code>
 <code><img height="35" src="https://wakatime.com/static/img/editor-icons/netbeans-128.png"></code>
 <code><img height="35" src="https://wakatime.com/static/img/editor-icons/dbeaver-128.png"></code>
-<code><img height="35" src="https://staruml.io/image/staruml_logo.png"></code>
-<code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1200px-Google_Colaboratory_SVG_Logo.svg.png?20221103151432"></code>
 <code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/600px-Figma-logo.svg.png?20190122211436"></code>
-<code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/800px-Postgresql_elephant.svg.png"></code>
 <br>
 <br>
 ### Holopin:
@@ -56,22 +53,6 @@ Currently I am open to any learning especially in IT as a Mobile Developer and Q
     <img src="https://holopin.me/xalvetra" width="850" height="300">
 </a>
 
-### Stats:
-<img width="45%" align="left" alt="Faris Ikhlasul Github Stats" src="https://github-readme-stats.vercel.app/api?username=farisikhhaq&show_icons=true&hide_border=true&theme=tokyonight" />
-<img width="38%" align="left" alt="Animation" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farisikhhaq&layout=compact&hide_border=true&theme=tokyonight" />
-
-[youtube]: https://www.youtube.com/channel/UC0-KT7C9MMRo8xnE5ZQPD4g
-[instagram]: https://www.instagram.com/xalfaris_26/?hl=id
-[linkedin]: https://www.linkedin.com/in/faris-ikhlasul-haq-23927a152/
-[work]: https://www.wri.polinema.ac.id/
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 
@@ -82,7 +63,7 @@ Currently I am open to any learning especially in IT as a Mobile Developer and Q
 
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
-    - 🔭 I’m currently work on IDETAMA  </br>
+    - 🔭 I’m currently work on Manufacturing & AI/Tech Consultant</br>
     - 💬 Ask me about anything -> <a href="mailto:farisikhlasulhaq@yahoo.co.id">Email me!</a> </br>
     - 📫 How to reach me: <a href="mailto:farisikhhaq@gmail.com">Email me!</a>  </br>
 </details>
